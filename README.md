@@ -64,10 +64,5 @@ The purpose of this project is to create a believable archive documenting the Ba
 └── README.md
 ```
 
-## Disclaimer
-
-This project is a fan-made creative work inspired by the online Backrooms concept. It is not affiliated with or endorsed by any official Backrooms creators or organizations.
-
----
 
 *"If these logs reach you, then at least someone made it far enough to leave a record."*
